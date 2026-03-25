@@ -43,12 +43,12 @@ The dataset contains raw sales data with multiple data quality issues such as:
 
 # Data Standardization
 ## Standardized Order Status, Category, and Product values
-<img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/26b0f813-585f-4824-9ebc-e839401575de" />
+<img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/9de6e321-ede9-48f3-b807-8d3474f40a1d" />
 
 
 # Date Format Standardization
 ## Standardized Sales Date into proper date format.
-<img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/45cdf383-978d-4594-ae3b-cfac0c417a41" />
+<img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/bafa965e-0fbe-4642-8192-3236a5d0faa2" />
 
 
 # Before Cleaning

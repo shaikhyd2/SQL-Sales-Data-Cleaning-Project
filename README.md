@@ -23,39 +23,37 @@ The dataset contains raw sales data with multiple data quality issues such as:
 
 # Backup Creation
 ## Created a backup of the original dataset before performing data cleaning.
-<img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/e77d4427-80a6-435a-b1cc-d173a929e8dd" />
+<img width="1041" height="785" alt="image" src="https://github.com/user-attachments/assets/aff6c6e6-4705-470d-9365-04f4fc006a63" />
 
 
 # Duplicate Check
 ## Identified duplicate Order IDs to ensure data uniqueness.
-<img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/30f23ff9-5e34-49de-8f7b-cb062428ebe5" />
+<img width="1046" height="786" alt="image" src="https://github.com/user-attachments/assets/0ec3b606-d44b-4ebf-bc0c-1e6ff3b2d48f" />
 
 
 # Remove Extra Spaces & Special Characters
 ## Removed unwanted spaces and special characters from text fields.
-<img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/8216d591-c226-4a78-9578-8038b7f09f69" />
 <img width="1043" height="780" alt="image" src="https://github.com/user-attachments/assets/8f6923ac-0ab7-47fd-8416-1b4abd7f745d" />
-
 
 
 # Handling NULL Values
 ## Handled missing values in Quantity column using default values.
-<img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/97bceb09-2df1-4eb8-aef8-c8ca398479bb" />
+<img width="1043" height="780" alt="image" src="https://github.com/user-attachments/assets/38d28ed4-4145-4a57-bca5-6728d146d121" />
 
 
 # Data Standardization
 ## Standardized Order Status, Category, and Product values
-<img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/9de6e321-ede9-48f3-b807-8d3474f40a1d" />
+<img width="1044" height="784" alt="image" src="https://github.com/user-attachments/assets/88f7bc17-9c7b-4699-8fc3-6b6d5fde7e79" />
 
 
 # Date Format Standardization
 ## Standardized Sales Date into proper date format.
-<img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/bafa965e-0fbe-4642-8192-3236a5d0faa2" />
+<img width="1048" height="784" alt="image" src="https://github.com/user-attachments/assets/5c3093dc-2698-4459-8b35-4e9f9881ed43" />
 
 
 # After Cleaning
 ## Cleaned Data (After Cleaning)
-<img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/035ef8a0-9556-41f1-a925-3c4d0a01d55a" />
+<img width="1045" height="781" alt="image" src="https://github.com/user-attachments/assets/ca02448f-3ca5-4f1e-83da-262c86131842" />
 
 
 # Result

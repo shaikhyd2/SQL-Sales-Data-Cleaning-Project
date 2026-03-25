@@ -25,29 +25,36 @@ The dataset contains raw sales data with multiple data quality issues such as:
 ## Created a backup of the original dataset before performing data cleaning.
 <img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/6cdfbb91-bf57-40bc-bd5a-9e0a1c2c63f3" />
 
+
 # Duplicate Check
 ## Identified duplicate Order IDs to ensure data uniqueness.
 <img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/e144df42-030f-465d-b73e-b836d7c85d33" />
+
 
 # Remove Extra Spaces & Special Characters
 ## Removed unwanted spaces and special characters from text fields.
 <img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/dff473db-fa07-4c26-a2f6-257ba6f5250a" />
 
+
 # Handling NULL Values
 ## Handled missing values in Quantity column using default values.
 <img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/72c57815-9539-4d63-81b6-8637b6a6c331" />
+
 
 # Data Standardization
 ## Standardized Order Status, Category, and Product values
 <img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/56cc1356-ebeb-461c-81dd-7f58387f3ec7" />
 
+
 # Date Format Standardization
 ## Standardized Sales Date into proper date format.
 <img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/20282917-a1f3-404f-ab72-cdf6d6be1f0e" />
 
+
 # Before vs After Comparison
 ## Compared raw and cleaned data to show transformation impact.
 <img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/af71603f-9223-4bd5-983c-316a70ffcfee" />
+
 
 # Result
 - Improved data consistency and accuracy

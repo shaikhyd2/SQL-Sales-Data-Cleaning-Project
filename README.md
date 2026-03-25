@@ -33,7 +33,7 @@ The dataset contains raw sales data with multiple data quality issues such as:
 
 # Remove Extra Spaces & Special Characters
 ## Removed unwanted spaces and special characters from text fields.
-<img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/6a267fde-42d7-4331-a16f-7c7f10da58eb" />
+<img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/8216d591-c226-4a78-9578-8038b7f09f69" />
 
 
 # Handling NULL Values
@@ -49,11 +49,6 @@ The dataset contains raw sales data with multiple data quality issues such as:
 # Date Format Standardization
 ## Standardized Sales Date into proper date format.
 <img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/bafa965e-0fbe-4642-8192-3236a5d0faa2" />
-
-
-# Before Cleaning
-## Raw Data (Before Cleaning)
-<img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/52292d30-8c59-487d-95d7-1b94075d6c69" />
 
 
 # After Cleaning

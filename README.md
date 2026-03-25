@@ -51,9 +51,14 @@ The dataset contains raw sales data with multiple data quality issues such as:
 <img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/20282917-a1f3-404f-ab72-cdf6d6be1f0e" />
 
 
-# Before vs After Comparison
-## Compared raw and cleaned data to show transformation impact.
-<img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/af71603f-9223-4bd5-983c-316a70ffcfee" />
+# Before Cleaning
+## Raw Data (Before Cleaning)
+<img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/52292d30-8c59-487d-95d7-1b94075d6c69" />
+
+
+# After Cleaning
+## Cleaned Data (After Cleaning)
+<img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/f973448d-fc21-406d-931e-a7401245af3d" />
 
 
 # Result

@@ -33,7 +33,7 @@ The dataset contains raw sales data with multiple data quality issues such as:
 
 # Remove Extra Spaces & Special Characters
 ## Removed unwanted spaces and special characters from text fields.
-<img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/d3803d1a-ccbf-4140-add8-00325c40c759" />
+<img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/6a267fde-42d7-4331-a16f-7c7f10da58eb" />
 
 
 # Handling NULL Values

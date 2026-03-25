@@ -58,7 +58,7 @@ The dataset contains raw sales data with multiple data quality issues such as:
 
 # After Cleaning
 ## Cleaned Data (After Cleaning)
-<img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/f973448d-fc21-406d-931e-a7401245af3d" />
+<img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/035ef8a0-9556-41f1-a925-3c4d0a01d55a" />
 
 
 # Result

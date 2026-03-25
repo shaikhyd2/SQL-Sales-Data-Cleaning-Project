@@ -23,32 +23,32 @@ The dataset contains raw sales data with multiple data quality issues such as:
 
 # Backup Creation
 ## Created a backup of the original dataset before performing data cleaning.
-<img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/6cdfbb91-bf57-40bc-bd5a-9e0a1c2c63f3" />
+<img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/e77d4427-80a6-435a-b1cc-d173a929e8dd" />
 
 
 # Duplicate Check
 ## Identified duplicate Order IDs to ensure data uniqueness.
-<img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/e144df42-030f-465d-b73e-b836d7c85d33" />
+<img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/30f23ff9-5e34-49de-8f7b-cb062428ebe5" />
 
 
 # Remove Extra Spaces & Special Characters
 ## Removed unwanted spaces and special characters from text fields.
-<img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/dff473db-fa07-4c26-a2f6-257ba6f5250a" />
+<img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/d3803d1a-ccbf-4140-add8-00325c40c759" />
 
 
 # Handling NULL Values
 ## Handled missing values in Quantity column using default values.
-<img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/72c57815-9539-4d63-81b6-8637b6a6c331" />
+<img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/97bceb09-2df1-4eb8-aef8-c8ca398479bb" />
 
 
 # Data Standardization
 ## Standardized Order Status, Category, and Product values
-<img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/56cc1356-ebeb-461c-81dd-7f58387f3ec7" />
+<img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/26b0f813-585f-4824-9ebc-e839401575de" />
 
 
 # Date Format Standardization
 ## Standardized Sales Date into proper date format.
-<img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/20282917-a1f3-404f-ab72-cdf6d6be1f0e" />
+<img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/45cdf383-978d-4594-ae3b-cfac0c417a41" />
 
 
 # Before Cleaning
